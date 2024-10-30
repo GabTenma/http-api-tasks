@@ -11,7 +11,8 @@
     },
     "dependencies": {
         "fastify": "^4.28.1",
-        "http-headers": "*"
+        "http-headers": "*",
+        "install": "^0.13.0"
     },
     "devDependencies": {
         "@babel/preset-env": "^7.24.8",
